@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RAC-TV.COM V2"
+title: "Rac-TV.com V2"
 subtitle: Une nouvelle version du site
 author: Yvan Racordon
 banner:
@@ -8,7 +8,7 @@ banner:
   loop: true
   volume: 0.8
   start_at: 8.5
-  image: https://bit.ly/3xTmdUP
+  image: assets/images/banners/En tête site2.png
   opacity: 0.618
   background: "#000"
   height: "100vh"
