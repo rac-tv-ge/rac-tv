@@ -10,17 +10,17 @@
   text: English
 
 - lang: de
-  img: https://cdn.countryflags.com/thumbs/deutchland/flag-400.png
+  img: https://cdn.countryflags.com/thumbs/germany/flag-400.png
   text: Deutch
 
 - lang: es
   img: https://cdn.countryflags.com/thumbs/spain/flag-400.png
-  text: Spanish
+  text: Español
 
-- lang: ru
-  img: https://cdn.countryflags.com/thumbs/russia/flag-400.png
-  text: Russian
+- lang: it
+  img: https://cdn.countryflags.com/thumbs/italia/flag-400.png
+  text: Italiano
 
-- lang: ja
-  img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
-  text: Japanese
+- lang: pt
+  img: https://cdn.countryflags.com/thumbs/portugal/flag-400.png
+  text: Português
