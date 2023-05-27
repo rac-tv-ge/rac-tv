@@ -13,13 +13,13 @@
   img: https://cdn.countryflags.com/thumbs/germany/flag-400.png
   text: Deutch
 
+- lang: it
+  img: https://cdn.countryflags.com/thumbs/italy/flag-400.png
+  text: Italiano
+  
 - lang: es
   img: https://cdn.countryflags.com/thumbs/spain/flag-400.png
   text: Español
-
-- lang: it
-  img: https://cdn.countryflags.com/thumbs/italia/flag-400.png
-  text: Italiano
 
 - lang: pt
   img: https://cdn.countryflags.com/thumbs/portugal/flag-400.png
