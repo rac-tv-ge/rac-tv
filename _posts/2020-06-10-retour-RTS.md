@@ -1,5 +1,6 @@
 ---
-weight: 6
+layout: post
+categories: junk
 title: "Chaînes suisses : retour de la diffusion TNT"
 date: 2020-06-10
 ---
