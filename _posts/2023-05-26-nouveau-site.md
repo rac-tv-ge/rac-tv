@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rac-TV.com V2"
-subtitle: Une nouvelle version du site
+subtitle: Changement de thème, nouvelles rubriques. Voici la nouvelle version du site
 author: Yvan Racordon
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
@@ -19,7 +19,7 @@ categories: misc
 tags: [info]
 ---
 
-Changement de thème, nouvelles rubriques. Voici la nouvelle version du site
-Encore quelque bug à corriger
+
+
 
 categories: misc
