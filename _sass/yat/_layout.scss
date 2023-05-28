@@ -70,6 +70,7 @@ html {
   @include flex-sticky(0);
   z-index: 1000;
 
+  
   & > .wrapper {
     background-color: #242424;
     margin: 0;
