@@ -4,7 +4,7 @@ title: "Rac-TV.com V2"
 subtitle: Changement de thème, nouvelles rubriques. Voici la nouvelle version du site
 author: Yvan Racordon
 banner:
-  video: https://vjs.zencdn.net/v/oceans.mp4
+  video: assets/images/banners/pexels-swisshumanity-stories-7797955-1280x720-30fps.mp4
   loop: true
   volume: 0.8
   start_at: 8.5
