@@ -3,7 +3,7 @@ layout: post
 title: Fusion UPC Sunrise
 subtitle: 
 categories: markdown
-tags: [UPC, info]
+tags: [UPC, info, TV]
 ---
 
 Le groupe de télécommunications Sunrise UPC s’apprête à franchir un nouveau pas dans l’intégration de ses deux composantes fusionnées. A compter du (lundi) 23 mai 2022, Sunrise se présentera comme marque principale du groupe, et dans la foulée héritera d’un nouveau logo et d’une nouvelle ligne graphique.
