@@ -8,7 +8,7 @@ banner:
   loop: true
   volume: 0.8
   start_at: 8.5
-  image: assets/images/banners/pexels-aric-shelby-3173309-1280x720-30fps.mp4
+  image: assets/images/banners/pexels-swisshumanity-stories-7797955-1280x720-30fps.mp4
   opacity: 0.618
   background: "#000"
   height: "100vh"
