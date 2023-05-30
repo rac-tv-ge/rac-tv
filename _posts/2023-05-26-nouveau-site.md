@@ -19,7 +19,12 @@ categories: misc
 tags: [info]
 ---
 
-
+Après une première mise en ligne en 2016, déjà 7 ans, il était temps de rafraichir un peu mon site internet.
+<br />
+Voici donc la nouvelle version du site qui contient plus d'informations sur les differents modes de réception qui sont en perpétuelle évolution.<br />
+J'espère que vous allez aprécier.
+<br />
+Yvan Racordon
 
 
 categories: misc
